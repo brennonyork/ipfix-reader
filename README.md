@@ -24,12 +24,8 @@ FIXME: listing of options this app accepts.
 
 ...
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2015 Brennon York
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the MIT License.
